@@ -2,10 +2,9 @@
 # Standard Operating Procedure (SOP)
 ## Title: Bioinformatics Workflow for Genome Assembly and Gene Variation Analysis of *Microsporidia sp.* from *Anopheles* Mosquitoes
 **Version:** 1.0  
-**Prepared by:** [Your Name]  
-**Date:** [Insert Date]  
-**Institution:** [Insert Lab/Organization Name]
-
+**Prepared by:** Lilian Mbaisi Ang'ang'o 
+**Date:** February 11th 2023 
+**Institution:** Research Unit in Bioinformatics (RUBi), Rhodes University
 ---
 
 ## 1. Purpose
@@ -173,3 +172,6 @@ for fq1 in os.listdir(raw_reads_dir):
 ```
 
 
+=======
+# microsporidia-genome-workflow
+Bioinformatics Workflow SOP for Microsporidia sp MB Genome Analysis 
